@@ -23,7 +23,7 @@ This C++ library provides functionality for database synchronization, allowing s
 1. Clone this repository to your local machine:
 
     ```bash
-    git clone https://github.com/EdgeSpaceAfrica/syncdb.git
+    git clone git@github.com:georgegoldman/syncdb.git
     ```
 
 2. Navigate to the library directory:
@@ -86,8 +86,8 @@ Contributions are welcome! If you encounter any issues or have suggestions for i
 
 ## Author
 
-<a href="https://github.com/georgegoldman">Goldman</a> © <a href="https://github.com/EdgeSpaceAfrica">EdgeSpaceAfrica</a>
+<a href="https://github.com/georgegoldman">Goldman</a>
 
 ## Contact
 
-For any inquiries or support, feel free to contact us at [edgespaceltd](mailto:edgespaceltd@gmail.com).
+For any inquiries or support, feel free to contact us at [GOLDMAN](mailto:georgegoldmanjohn.o@gmail.com).
