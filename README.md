@@ -52,7 +52,7 @@ To use the database synchronization library in your C++ project, include the hea
 
 ```cpp
 #include "syncdb.hpp"
-
+```
 
 ## Example
 
